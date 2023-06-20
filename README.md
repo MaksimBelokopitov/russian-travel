@@ -13,3 +13,6 @@
 - Медиа-запросы
 - Адаптивную верстку
 - Верстал макет из Figma
+
+## Ссылка на проект
+https://maksimbelokopitov.github.io/russian-travel/
