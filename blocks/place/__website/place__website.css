@@ -4,3 +4,10 @@
     gap: 12px;
     align-self: end;
 }
+
+@media screen and (max-width: 631px) {
+    .place__website{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
